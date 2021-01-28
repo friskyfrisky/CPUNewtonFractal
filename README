@@ -1,5 +1,5 @@
 dependencies 
-	EasyBMP (will automatically install, have git installed on system)
+	EasyBMP (will automatically install, have git installed on system) (thank you to izanbf1803)
 	g++
 	ffmpeg
 	imagemagick for mogrify
