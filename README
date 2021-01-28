@@ -1,0 +1,11 @@
+dependencies 
+	EasyBMP (will automatically install, have git installed on system)
+	g++
+	ffmpeg
+	imagemagick for mogrify
+
+run run.sh. edit the file to change the index of the variable we are changing, output resolution etc
+edit newt.cpp to se variables like render resolution, etc, we recompile every time we run because it's fast and you might want to edit the function
+
+Created by friskyfrisky
+
